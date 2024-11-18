@@ -1,28 +1,8 @@
-# 한밭대학교 유성 리빙랩 ㅁㅁㅁㅁ팀
+# 한밭대학교 유성 리빙랩 팀 보훈 지킴이
 
 **팀 구성**
-- 20XX0001 XXXX학과 김이박 
-- 20XX0002 XXXX학과 이박김
-- 20XX0003 XXXX학과 박김이
-
-## <u>Teamate</u> Project Background
-- ### 필요성
-  - OOO
-  - OOO
-- ### 기존 해결책의 문제점
-  - OOO
-  - OOO
-  
-## System Design
-  - ### System Requirements
-    - OOO
-    - OOO
-    
-## Case Study
-  - ### Description
-  
-  
-## Conclusion
-  - ### OOO
-  - ### OOO
-  
+- 20181650 정보통신공학과   유재영 
+- 20191879 정보통신공학과   오예찬
+- 20191836 정보통신공학과   문동민
+- 20221038 모바일융합공학과 임예은
+- 대덕소프트웨어마이스터고  지도현
